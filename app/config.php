@@ -1,6 +1,6 @@
 <?php
 
-Config::set('site_name', 'Training Project');
+Config::set('site_name', 'Training Projects');
 Config::set('baseURL', 'http://localhost/TrainingProject/public');
 
 //Controllers, models
