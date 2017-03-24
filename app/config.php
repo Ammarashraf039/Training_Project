@@ -1,6 +1,6 @@
 <?php
 
-Config::set('site_name', 'MVC Training');
+Config::set('site_name', 'Training Project');
 Config::set('baseURL', 'http://localhost/TrainingProject/public');
 
 //Controllers, models
