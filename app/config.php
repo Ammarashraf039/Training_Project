@@ -1,7 +1,7 @@
 <?php
 
 Config::set('site_name', 'MVC Training');
-Config::set('baseURL', 'http://localhost/prac/MVCApp_1/public');
+Config::set('baseURL', 'http://localhost/TrainingProject/public');
 
 //Controllers, models
 
@@ -21,4 +21,4 @@ Config::set('coursemod', 'CourseModel');
 Config::set('db.host', 'localhost');
 Config::set('db.username', 'root');
 Config::set('db.password', '123');
-Config::set('db.db_name', 'db_mvc');
+Config::set('db.db_name', 'trainingProject');
